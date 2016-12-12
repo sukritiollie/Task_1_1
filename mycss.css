@@ -19,5 +19,19 @@ p
 	font-size: 150%;
 }
 
+
+div
+{
+	text-align: center;
+	font-size: 150%;
+
+}
+
+button
+{ 
+	text-align: center;
+	font-size: 150%;
+
+}
 /*Bee I have a doubt, what if I don't want all the paragraph values to be 
 centre alligned? I mean I want the numbers left alligned. */
